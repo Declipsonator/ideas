@@ -1,7 +1,11 @@
 # Ideas
 _Why are there so many..._
-- [ ] Fantasy NY Cross Country
-- [ ] Bedroom Jarvis
-- [ ] Profile Website
-- [ ] Running App
-- [ ] Running Website (Forum?)
+## Unstarted
+- Bedroom Jarvis
+- Profile Website
+- Running App
+
+## Started
+- Running Website - [Backend](https://github.com/Declipsonator/StrideBack)
+
+## Finished
